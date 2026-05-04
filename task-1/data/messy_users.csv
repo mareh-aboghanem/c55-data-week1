@@ -1,0 +1,16 @@
+id,name,email,department,salary
+1,  Alice Johnson ,alice.johnson@company.com,Engineering,85000
+2,Bob Smith,bob.smith@company.com,,72000
+3,Carol Williams,carol.williams@company.com,Engineering,N/A
+4,"David, Jr.",david.brown@company.com,Sales,"68,000"
+5,Café Owner,eva@company.com,Engineering,88000
+6,  FRANK WILSON  ,frank@company.com,marketing,  95000
+7,Grace Lee,grace.lee@company.com,Engineering,
+8,,missing.name@company.com,Sales,75000
+9,Henry Davis,HENRY.DAVIS@COMPANY.COM,Sales,82000
+10,   ,isabel@company.com,Engineering,91000
+11,Linda Taylor,linda.t@company.com,HR,"  55000 "
+12, Mike Brown,mike.b@company.com,Sales,62.000
+13,Sarah Connor,s.connor@sky.net,Unknown,-1
+14,,admin@company.com,,120000
+15,John Doe,JOHN.DOE@COMPANY.NET,Engineering,"100,000"
