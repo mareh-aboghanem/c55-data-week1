@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "email": "alice.johnson@company.com",
+    "department": "Engineering",
+    "salary": 85000
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "email": "bob.smith@company.com",
+    "department": "Unknown",
+    "salary": 72000
+  },
+  {
+    "id": 3,
+    "name": "Carol Williams",
+    "email": "carol.williams@company.com",
+    "department": "Engineering",
+    "salary": null
+  },
+  {
+    "id": 4,
+    "name": "David, Jr.",
+    "email": "david.brown@company.com",
+    "department": "Sales",
+    "salary": 68000
+  },
+  {
+    "id": 5,
+    "name": "Caf\u00e9 Owner",
+    "email": "eva@company.com",
+    "department": "Engineering",
+    "salary": 88000
+  },
+  {
+    "id": 6,
+    "name": "FRANK WILSON",
+    "email": "frank@company.com",
+    "department": "marketing",
+    "salary": 95000
+  },
+  {
+    "id": 7,
+    "name": "Grace Lee",
+    "email": "grace.lee@company.com",
+    "department": "Engineering",
+    "salary": null
+  },
+  {
+    "id": 9,
+    "name": "Henry Davis",
+    "email": "henry.davis@company.com",
+    "department": "Sales",
+    "salary": 82000
+  },
+  {
+    "id": 11,
+    "name": "Linda Taylor",
+    "email": "linda.t@company.com",
+    "department": "HR",
+    "salary": 55000
+  },
+  {
+    "id": 12,
+    "name": "Mike Brown",
+    "email": "mike.b@company.com",
+    "department": "Sales",
+    "salary": null
+  },
+  {
+    "id": 13,
+    "name": "Sarah Connor",
+    "email": "s.connor@sky.net",
+    "department": "Unknown",
+    "salary": -1
+  },
+  {
+    "id": 15,
+    "name": "John Doe",
+    "email": "john.doe@company.net",
+    "department": "Engineering",
+    "salary": 100000
+  }
+]
